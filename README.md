@@ -6,3 +6,5 @@
 [Calendário de aulas](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDxs5WfLVcCE8Kjxc0laU25YORJti2Yk0ezUZhS65QrCpulWClD-uRWY-BFzdCIuaPgKUeyHvIm37y/pubhtml?gid=461018101&single=true)
 
 [Apresentação da disciplina](https://docs.google.com/presentation/d/1UkAyvTz05UyQ3RD39vJdp9l88ggwpySZ/edit#slide=id.p11)
+
+[Apostila com conteúdo sobre desenvolvimento de backend](https://raquelvl.github.io/projsw.github.io/)
