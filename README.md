@@ -9,4 +9,4 @@
 
 Apostila com [conteúdo sobre desenvolvimento de frontend](https://daltonserey.github.io/psoft/)
 
-Apostila com [conteúdo sobre desenvolvimento de backend](https://raquelvl.github.io/projsw.github.io/)
+Apostila com [conteúdo sobre desenvolvimento de backend](https://raquelvl.github.io/projsw/)
